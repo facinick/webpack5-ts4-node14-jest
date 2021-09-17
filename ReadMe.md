@@ -26,6 +26,12 @@ Build dev bundle
 
 Lint and type checking
 
+Install git hooks
+
+```bash
+  npm run prepare
+```
+
 You can use ```npm run lint:fix && npm run lint:fix && tsc --noEmit``` to pretty, lint and check types, although when you try to commit changes lint-staged automatically runs these commands on the staged files with extensions .ts .js and .json.
 
 ## Adding custom types
