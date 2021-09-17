@@ -2,7 +2,12 @@
     "name": "node14-typescript4-webpack5-starter",
     "version": "2.0.0",
     "description": "node14-typescript4-webpack5-starter",
-    "keywords": ["node", "typescript", "webpack", "jest"],
+    "keywords": [
+        "node",
+        "typescript",
+        "webpack",
+        "jest"
+    ],
     "main": "dist/bundle.min.js",
     "types": "dist/types/index.d.ts",
     "scripts": {
@@ -16,7 +21,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://git.corp.bluejeans.com:8443/scm/~nkumar1/recording_cms_wrapper.git"
+        "url": "https://github.com/facinick/webpack5-ts4-node14-jest.git"
     },
     "author": "shriyans kapoor",
     "license": "ISC",

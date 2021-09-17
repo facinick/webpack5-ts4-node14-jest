@@ -11,7 +11,7 @@ A minimal ts node starter template with webpack5
 **Lint with ESLint and Format using Prettier**
 
 **Run above linters on staged files using Lint Staged and Husky**
-## Linting, Compiling and Building
+## Linting, Compiling, Building, Testing
 
 Build prod bundle (commit this)
 
@@ -22,6 +22,12 @@ Build dev bundle
 
 ```bash
   npm run build
+```
+
+Run tests with jest (test files are in src folder)
+
+```bash
+  npm run test
 ```
 
 Lint and type checking
